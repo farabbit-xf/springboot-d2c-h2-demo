@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mengka.springboot</groupId>
-    <artifactId>springboot-mvc-jdbc-demo2</artifactId>
+    <artifactId>springboot-d2c-h2-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>springboot-mvc-jdbc-demo2</name>
     <description>Demo project for Spring Boot</description>
